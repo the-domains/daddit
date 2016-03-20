@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9042553
+  brandStrength: 0.7914894
+  lightness: 1
+  brandColors:
+    - '#0B040E'
+    - '#C6C7BC'
+    - '#E0FFFF'
+    - '#A36D5C'
+    - '#C64C39'
+  rhythmicContrast: 0.8510638
+typography_spectrum: 0.3595745
+name: Daddit
