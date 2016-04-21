@@ -1,9 +1,10 @@
 ---
-title: "Daddit (and son) don't do stereotypes."
-datePublished: '2016-04-21T13:15:33.682Z'
-dateModified: '2016-04-21T13:11:51.066Z'
+title: "Daddit (and son) don't do stereotypes!"
+datePublished: '2016-04-21T13:17:56.310Z'
+dateModified: '2016-04-21T13:17:35.798Z'
 author: []
 description: ''
+starred: false
 sourcePath: _posts/2016-04-21-daddit-and-son-dont-do-stereotypes.md
 published: true
 inFeed: true
@@ -12,5 +13,5 @@ inNav: false
 _type: MediaObject
 
 ---
-# Daddit (and son) don't do stereotypes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2498a47-d694-41de-ae35-f5f7980b4e56.jpg)
+# Daddit (and son) don't do stereotypes!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c7fa9a6-d376-4723-aa24-3c3647f51023.jpg)
