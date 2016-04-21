@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3595745
 color:
   saturation: 0.9042553
   brandStrength: 0.4425532
@@ -22,5 +21,6 @@ color:
     - '#626878'
     - '#008C00'
   rhythmicContrast: 0.9680851
+typography_spectrum: 0.3595745
 layout_spectrum: 1
 name: Daddit
