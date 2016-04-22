@@ -4,16 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4893617
 color:
-  saturation: 0.7170213
+  saturation: 0
   brandStrength: 0.4425532
-  lightness: 0.7276596
+  lightness: 0.2914894
   brandColors:
     - '#FFFFFF'
     - '#FFB9BC'
@@ -21,6 +22,5 @@ color:
     - '#626878'
     - '#008C00'
   rhythmicContrast: 1
-typography_spectrum: 0.4893617
 layout_spectrum: 1
 name: Daddit
