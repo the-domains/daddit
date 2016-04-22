@@ -1,26 +1,26 @@
-color:
-  saturation: 0.9042553
-  brandStrength: 0.4425532
-  rhythmicContrast: 0.9680851
-  brandColors:
-    - '#FFFFFF'
-    - '#FFB9BC'
-    - '#2C2B30'
-    - '#626878'
-    - '#008C00'
-  lightness: 0.9680851
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+color:
+  saturation: 0.7170213
+  brandStrength: 0.4425532
+  lightness: 0.7276596
+  brandColors:
+    - '#FFFFFF'
+    - '#FFB9BC'
+    - '#2C2B30'
+    - '#626878'
+    - '#008C00'
+  rhythmicContrast: 1
+typography_spectrum: 0.4893617
 layout_spectrum: 1
-typography_spectrum: 0.3595745
 name: Daddit
